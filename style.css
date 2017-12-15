@@ -1,0 +1,17 @@
+.back {
+  display: block;
+  float: left;
+  width: 33.3%;
+}
+
+.current {
+  display: block;
+  float: left;
+  width: 33.3%
+}
+
+.forward {
+  display: block;
+  float: right;
+  width: 33.3%
+}
